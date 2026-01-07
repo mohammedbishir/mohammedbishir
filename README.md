@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**mohammedbishir/mohammedbishir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Bishir**, a software developer based in India.
 
-Here are some ideas to get you started:
+I'm obsessed with pixel-perfect UI and building meaningful web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea sparks my interest, chances are I'll build it and ship it.
+
+My main tech stack is React, Next.js, JavaScript, Tailwind CSS, and Material-UI. I love crafting responsive, beautiful interfaces that users enjoy.
+
+I've built multiple projects, and I'm always working on something new.
+
+If you want to collaborate or just chat about web development, feel free to reach out!
+
+## 🛠️ Tech Stack:
+- React.js & Next.js
+- JavaScript & TypeScript
+- Tailwind CSS & Material-UI
+- HTML & CSS
+
+## 📫 How to reach me:
+- GitHub: 
+- Email: 
+- LinkedIn: 
+
+## Fun Facts:
+
+- 💻 Always learning, always building
+- 🎯 Open to freelance and collaboration opportunities
