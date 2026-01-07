@@ -26,4 +26,5 @@ If you want to collaborate or just chat about web development, feel free to reac
 ## Fun Facts:
 
 - 💻 Always learning, always building
+- 💪 Hobbies: gym, building things
 
